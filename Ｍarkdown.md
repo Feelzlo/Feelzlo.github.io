@@ -125,6 +125,6 @@ datetime.now()
 
 超連結也可以把圖片塞進來, 如下圖:
 
-![圖片連結掛了](../blob/master/IMG_7928.JPG)
+![圖片連結掛了](https://github.com/Feelzlo/Feelzlo.github.io/blob/master/IMG_7928.JPG)
 
 
